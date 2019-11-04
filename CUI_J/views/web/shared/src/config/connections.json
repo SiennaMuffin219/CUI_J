@@ -1,0 +1,9 @@
+{
+	"socket-front": {
+		"host": "localhost",
+		"port": 4201
+	},
+	"socket-tcp": {
+		"port": 4200
+	}
+}

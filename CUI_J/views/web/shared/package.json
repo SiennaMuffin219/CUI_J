@@ -1,0 +1,22 @@
+{
+  "author": "",
+  "dependencies": {
+    "fs-extra": "latest",
+    "socket.io": "^2.3.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.1",
+    "nodemon": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "shared",
+  "scripts": {
+    "watch": "nodemon --ext ts --watch src -x  \"ts-node share.ts\""
+  },
+  "version": "1.0.0"
+}

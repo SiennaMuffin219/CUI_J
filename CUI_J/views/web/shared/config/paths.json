@@ -1,0 +1,4 @@
+{
+  "from" : "./src",
+  "to": ["../front/src/shared", "../back/src/shared"]
+}
